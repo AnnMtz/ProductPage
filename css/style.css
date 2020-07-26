@@ -1,0 +1,121 @@
+body {
+    height: 100vh;
+    background: #1f001f;
+}
+.logo {
+    filter: invert(100%);
+}
+.column-start {
+    padding-right: 0;
+    padding-left: 0;
+    display: inline-block;
+    margin-top: 2%;
+}
+#start {
+    width: 30em;
+    height: 100%;
+}
+
+.squarts {
+    margin-top: 14%;
+    padding-right: 0%;
+    display: inline-block;
+}
+
+
+.navbar {
+    background-color: #32034af2;
+}
+
+#user {
+    width: 30px;
+    margin-left: 10px;
+    filter: invert(100%);
+}
+
+#shopping {
+    width: 30px;
+    margin-left: 10px;
+    filter: invert(100%);
+}
+
+.container-fluid {
+    /* background: #1f001f; */
+}
+.lorem {
+    padding-right: 2.5em;
+    color: white;
+}
+
+.heart {
+    padding-left: 0;
+}
+
+.title{
+    margin-top: 2%;
+    padding-right: 0%;
+    display: inline-block;
+}
+
+.button {
+    display: inline-block;
+}
+
+#btn {
+    width: 12em;
+    height: 3em;
+    border-radius: 20px;
+}
+
+.text {
+    font-size: 12px;
+}
+
+.grid-col{
+    margin-top: 6em;
+}
+
+.grid {
+    display: inline-grid;
+}
+
+.lorem-text {
+    position: relative;
+    top: -135px;
+    margin-left: 1em;
+    font-size: 11px;
+}
+
+.number {
+    position: relative;
+    top: -152px;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+#info {
+    width: 7px;
+    margin-left: 5px;
+    filter: invert(100%);
+}
+
+.death-start {
+    width: 100px;
+}
+
+#grid1{
+    padding-left: 38px;
+}
+
+#grid2{
+    padding-left: 20px;
+}
+
+.final-cards {
+    margin-top: 4em;
+    justify-content: center;
+}
+
+.column-cards {
+    bottom: 4em;
+}
